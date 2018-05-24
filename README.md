@@ -3,10 +3,15 @@
 ## 7.x Update
 
 1 - Removed Duplicate Fields causing Fatal Exceptions from solrconfig.xml
+
 2 - Removed out of date field definitions to match 7.* schema
+
 3 - Updated existing field definitions to match 7.* schema
+
 4 - Updated Lucene version info to stop emulation mode from running
+
 5 - Matched function signatures in plugin php files to omeka interfaces in the newer versions
+
 
 IMPORTANT NOTE!: the <lib dir="foobarbaz" regex="qux /> lines are hardwired to the location of the 
 JAR files in YOUR Solr installation directory! (currently they are set to the default location for 7.x)
