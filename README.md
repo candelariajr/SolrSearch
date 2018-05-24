@@ -1,5 +1,19 @@
 # [SolrSearch][plugin]
 
+## 7.x Update
+
+1 - Removed Duplicate Fields causing Fatal Exceptions from solrconfig.xml
+2 - Removed out of date field definitions to match 7.* schema
+3 - Updated existing field definitions to match 7.* schema
+4 - Updated Lucene version info to stop emulation mode from running
+5 - Matched function signatures in plugin php files to omeka interfaces in the newer versions
+
+IMPORTANT NOTE!: the <lib dir="foobarbaz" regex="qux /> lines are hardwired to the location of the 
+JAR files in YOUR Solr installation directory! (currently they are set to the default location for 7.x)
+
+This is in testing and works on my instances, but it may not work 100% for yours.
+
+
 **SolrSearch** replaces the default Omeka search interface with one powered by
 [Solr][solr], a scalable and feature-rich search engine that supports faceting
 and hit highlighting. In most cases, Omeka's built-in searching capabilities
