@@ -1,7 +1,5 @@
 # [SolrSearch][plugin]
 
-![Solr](https://lucene.apache.org/images/solr.png)
-
 **SolrSearch** replaces the default Omeka search interface with one powered by
 [Solr][solr], a scalable and feature-rich search engine that supports faceting
 and hit highlighting. In most cases, Omeka's built-in searching capabilities
