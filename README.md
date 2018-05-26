@@ -13,7 +13,7 @@
 5 - Matched function signatures in plugin php files to omeka interfaces in the newer versions
 
 
-IMPORTANT NOTE!: the <lib dir="foobarbaz" regex="qux" /> lines are hardwired to the location of the 
+IMPORTANT NOTE!: the `<lib dir="foobarbaz" regex="qux" />` lines are hardwired to the location of the 
 JAR files in YOUR Solr installation directory (currently they are set to the default location for 7.x)
 
 This is in testing and works on my instances, but it may not work 100% for yours.
