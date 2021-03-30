@@ -49,6 +49,8 @@ official [installation documentation][solr-install].
 
 ### Solr Core
 
+TODO: Update this
+
 To deploy the Solr core, just copy the `solr-core/omeka` directory into your
 Solr home directory. For example, if your deployment is based on the default
 Solr 4 multicore template, you might end up with directories for `core0`,
