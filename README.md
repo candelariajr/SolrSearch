@@ -16,6 +16,8 @@
 IMPORTANT NOTE!: the `<lib dir="foobarbaz" regex="qux" />` lines are hardwired to the location of the 
 JAR files in YOUR Solr installation directory (currently they are set to the default location for 7.x)
 
+As of 7.x and above, a core can not be created without solrconfig.xml
+
 This is in testing and works on my instances, but it may not work 100% for yours.
 
 
