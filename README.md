@@ -1,5 +1,12 @@
 # [SolrSearch][plugin]
 
+PHP Path not found error: 
+
+in omeka/applicatoin/config
+set background.php.path = "usr/bin/php"
+
+Note: Specify the exact CLI command and location (it may vary based on system "whereis php" can help with this)
+
 ## 7.x Update
 
 1 - Removed Duplicate Fields causing Fatal Exceptions from solrconfig.xml
