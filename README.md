@@ -1,5 +1,10 @@
 # [SolrSearch][plugin]
 
+Things to fix:
+    Style for BS
+    Sync the XML files
+
+
 PHP Path not found error: 
 
 in omeka/applicatoin/config
