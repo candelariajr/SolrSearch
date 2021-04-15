@@ -7,7 +7,7 @@ Things to fix:
 
 PHP Path not found error: 
 
-in omeka/applicatoin/config
+in omeka/application/config
 set background.php.path = "usr/bin/php"
 
 Note: Specify the exact CLI command and location (it may vary based on system "whereis php" can help with this)
