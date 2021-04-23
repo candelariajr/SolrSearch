@@ -90,6 +90,8 @@
             array('facet-name' => 'group 1', 'facet-group' => array(1, 2)),
             array('facet-name' => 'group 2', 'facet-group' => array(1, 2, 3, 4, 5, 6)),
             array('facet-name' => 'group 3', 'facet-group' => array(1, 2,)),
+            array('facet-name' => 'group 2', 'facet-group' => array(1, 2, 3, 4)),
+            array('facet-name' => 'group 3', 'facet-group' => array(1)),
             array('facet-name' => 'group 3', 'facet-group' => array(1, 2, 3))
         );
 
