@@ -212,6 +212,8 @@ Once the content has been indexed, head to the public site and type a search que
 
 ## Thanks
 
+Official development has stopped on this plugin. I've taken over in order to keep developing it as we love to use the plugin. 
+
 This work has been a collaboration. During development, we've gotten help from a number of others:
 
 * @anuragji
